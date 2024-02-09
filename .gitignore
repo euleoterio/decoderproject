@@ -1,0 +1,7 @@
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Diretórios de configuração do Eclipse
+.classpath
+.project
+.settings/
